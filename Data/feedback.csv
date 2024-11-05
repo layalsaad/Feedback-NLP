@@ -1,0 +1,76 @@
+id,Text,sentiment_id,Date/Time,User ID,location_id,source_id,Confidence Score
+1,I love this product!,1,2023-06-15 09:23:14,user123,1,1,0.85
+2,The service was terrible.,2,2023-06-15 11:45:32,user456,2,2,0.65
+3,This movie is amazing!,1,2023-06-15 14:10:22,moviefan789,3,3,0.92
+4,I'm so disappointed with their customer support.,2,2023-06-15 17:35:11,forumuser1,4,4,0.78
+5,Just had the best meal of my life!,1,2023-06-16 08:50:59,foodie22,5,5,0.88
+6,The quality of this product is subpar.,2,2023-06-16 10:15:27,shopper123,6,6,0.72
+7,I can't stop listening to this song. It's incredible!,1,2023-06-16 13:40:18,musiclover456,7,7,0.91
+8,Their website is so user-friendly. Love it!,1,2023-06-16 16:05:36,testimonialuser1,8,8,0.87
+9,I loved the movie! It was fantastic!,1,2023-07-02 09:12:34,user123,1,3,0.92
+10,The customer service was terrible.,2,2023-07-02 10:45:21,user456,2,2,0.65
+11,This book made me feel inspired. Highly recommended!,1,2023-07-02 12:34:56,bookworm789,3,9,0.88
+12,I'm extremely disappointed with their product quality.,2,2023-07-02 15:21:43,shopper789,6,10,0.72
+13,Just had the most amazing vacation! I can't wait to go back.,1,2023-07-02 18:01:23,travelenthusiast1,8,5,0.93
+14,The food at this restaurant was awful. Never going back again!,2,2023-07-02 20:45:37,foodlover123,9,11,0.55
+15,I can't stop listening to this song. It's my new favorite!,1,2023-07-03 09:17:52,musiclover789,7,7,0.91
+16,Their website is so confusing and poorly designed.,2,2023-07-03 11:59:18,user789,4,12,0.68
+17,I had an incredible experience at the theme park. So much fun!,1,2023-07-03 14:40:05,thrillseeker1,10,13,0.89
+18,The product arrived damaged. Very disappointed.,2,2023-07-03 17:25:09,buyer123,11,10,0.76
+19,The concert was absolutely breathtaking. Best performance ever!,1,2023-07-03 20:15:33,musicfan456,5,14,0.95
+20,I had a terrible experience with their customer support.,2,2023-07-04 08:32:41,user1234,8,15,0.61
+21,This movie is a masterpiece! I was blown away.,1,2023-07-04 14:05:27,cinephile789,2,3,0.93
+22,The customer service at this store is top-notch.,1,2023-07-04 16:35:19,shopper456,1,2,0.82
+23,I'm disappointed with the ending of this book. It fell flat.,2,2023-07-04 19:18:53,booklover123,3,9,0.68
+24,The product I received was damaged. Unacceptable.,2,2023-07-04 21:52:41,buyer789,6,10,0.75
+25,Just had the worst flight experience. Delayed and rude staff.,2,2023-07-05 09:10:15,traveler456,8,16,0.57
+26,The hotel stay was absolutely amazing! Luxury at its finest.,1,2023-07-05 12:30:08,traveladdict1,5,5,0.95
+27,The food at this restaurant was outstanding. Highly recommended!,1,2023-07-05 15:45:32,foodie789,9,11,0.89
+28,This playlist is my go-to for workouts. Energizing and motivating!,1,2023-07-05 18:20:17,gymrat123,7,7,0.91
+29,I had a frustrating experience navigating through their website.,2,2023-07-05 21:05:44,user987,4,12,0.67
+30,The roller coaster ride was thrilling! Heart-pounding excitement!,1,2023-07-06 08:48:39,thrillseeker2,10,17,0.92
+31,The product I ordered never arrived. Terrible service.,2,2023-07-06 11:25:56,customer123,11,10,0.64
+32,I can't get enough of this band. Their music is incredible!,1,2023-07-06 14:15:23,musiclover987,3,18,0.94
+33,I had a great chat with their customer support. Helpful and friendly.,1,2023-07-06 17:02:11,user7890,8,15,0.85
+34,This restaurant has the most delicious food. I can't wait to go back!,1,2023-07-09 09:12:54,foodie123,5,5,0.94
+35,The product I purchased broke within a week. Poor quality.,2,2023-07-09 11:45:32,shopper246,2,10,0.61
+36,This book is thought-provoking and beautifully written. Highly recommended!,1,2023-07-09 14:23:18,bookworm567,3,9,0.89
+37,The customer service at this store is exceptional. They went above and beyond.,1,2023-07-09 17:05:46,shopper7890,1,19,0.87
+38,I had a terrible experience with their technical support. No resolution.,2,2023-07-09 19:40:27,user9876,6,20,0.63
+39,The live concert was electrifying! The band's energy was contagious.,1,2023-07-10 08:50:13,musiclover7890,8,14,0.92
+40,I'm disappointed with the food at this restaurant. It was tasteless.,2,2023-07-10 11:32:59,foodcritic123,9,11,0.68
+41,This song always puts me in a good mood. It's my go-to feel-good track!,1,2023-07-10 14:20:05,playlistlover456,7,7,0.93
+42,The website is slow and unresponsive. Difficult to navigate.,2,2023-07-10 17:15:22,user24680,4,12,0.65
+43,The roller coaster ride was exhilarating! Pure adrenaline rush!,1,2023-07-10 20:02:37,thrillseeker789,10,17,0.95
+44,The product I ordered arrived damaged. Very disappointed with the packaging.,2,2023-07-11 08:40:51,buyer7890,11,10,0.67
+45,I'm captivated by this band's unique sound. They're a breath of fresh air!,1,2023-07-11 11:22:17,musicfan567,3,18,0.94
+46,The customer support was quick to respond and resolved my issue. Impressed!,1,2023-07-11 14:18:42,user123456,8,15,0.85
+47,This restaurant has the best food. I highly recommend it!,1,2023-07-11 17:30:15,foodie246,2,2,0.9
+48,The plot of this movie is confusing and hard to follow.,2,2023-07-11 20:15:42,moviegoer789,3,3,0.62
+49,I'm addicted to this game. It's so much fun!,1,2023-07-12 09:05:59,gamer123,1,21,0.88
+50,The customer service at this hotel was terrible. Avoid at all costs.,2,2023-07-12 11:45:27,traveler246,5,22,0.57
+51,This book bored me to tears. I couldn't finish it.,2,2023-07-12 14:30:18,bookworm246,6,9,0.68
+52,I'm impressed with the sound quality of these headphones. Excellent!,1,2023-07-12 17:10:36,audiophile789,7,10,0.92
+53,The website design is sleek and user-friendly. Easy to navigate.,1,2023-07-13 08:50:59,testimonialuser2,8,8,0.87
+54,I had a terrible experience with their delivery service. Late and unprofessional.,2,2023-07-13 11:25:27,shopper4567,11,10,0.64
+55,The concert was mind-blowing! The band knows how to put on a show.,1,2023-07-13 14:05:42,musiclover1234,5,14,0.95
+56,I'm extremely disappointed with the customer support. No resolution.,2,2023-07-13 16:35:19,user98765,4,15,0.61
+57,The hotel staff were rude and unprofessional. Terrible customer service.,2,2023-07-17 08:50:13,traveler789,5,23,0.55
+58,The food at this restaurant was mediocre. Nothing special.,2,2023-07-17 11:32:59,foodlover2468,9,11,0.65
+59,This song always puts me in a nostalgic mood. It reminds me of good times.,1,2023-07-17 14:20:05,nostalgiacat123,7,7,0.88
+60,The website loading speed is frustratingly slow. Needs improvement.,2,2023-07-17 17:15:22,user12345,4,12,0.62
+61,The food at this cafe exceeded my expectations. Absolutely delicious!,1,2023-07-13 19:18:53,foodlover246,9,24,0.92
+62,I'm disappointed with the ending of this TV show. It left too many unanswered questions.,2,2023-07-14 08:32:41,tvfan123,2,25,0.66
+63,This album is a masterpiece. Every song is a work of art!,1,2023-07-14 11:05:27,musicenthusiast1,3,18,0.93
+64,The website layout is cluttered and confusing. Difficult to find information.,2,2023-07-14 14:40:05,user2468,8,12,0.67
+65,The roller coaster at this theme park is a thrilling experience. A must-try!,1,2023-07-14 17:25:09,thrillseeker3,10,17,0.91
+66,The product I ordered never arrived. Poor customer service.,2,2023-07-15 08:50:13,buyer1234,11,10,0.63
+67,I'm in awe of this artist's talent. Their paintings are breathtaking!,1,2023-07-15 12:30:08,artlover123,5,26,0.94
+68,The food at this restaurant was disappointing. Not worth the price.,2,2023-07-15 15:45:32,foodcritic246,9,11,0.68
+69,This playlist is perfect for relaxation. Soothing and calming!,1,2023-07-15 18:20:17,relaxmusiclover,7,7,0.91
+70,The website navigation is smooth and intuitive. I found what I needed quickly.,1,2023-07-15 21:05:44,happyuser123,4,8,0.88
+71,The ride on this cruise ship was an unforgettable experience. I loved every moment!,1,2023-07-16 09:12:54,travelenthusiast2,8,27,0.95
+72,The product I received was of poor quality. It broke after a few uses.,2,2023-07-16 11:45:32,shopper567,2,10,0.61
+73,This book kept me hooked from start to finish. A captivating read!,1,2023-07-16 14:23:18,bookworm7890,3,9,0.9
+74,The customer service at this store is outstanding. They truly care about their customers.,1,2023-07-16 17:05:46,happyshopper1,1,19,0.92
+75,I had a frustrating experience with their technical support. No resolution provided.,2,2023-07-16 19:40:27,user98765,6,20,0.67
